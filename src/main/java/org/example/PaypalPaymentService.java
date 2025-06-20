@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class PaypalPaymentService implements PaymentService{
     @Override
     public void pay(){
-        System.out.println("Thanh toán qua Paypal hihi");
+        System.out.println("Thanh toán qua Paypal Cam ơn b");
     }
 }
